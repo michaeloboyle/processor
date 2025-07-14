@@ -1,0 +1,32 @@
+# Universal Workflow Swarm Configuration
+swarm_topology: mesh
+max_agents: 15
+coordination_protocol: consensus
+
+specialized_agents:
+  data_collector:
+    role: "Web scraping, API calls, file processing"
+    tools: ["puppeteer", "requests", "pandas"]
+    
+  pattern_analyzer:
+    role: "Identify workflow patterns and bottlenecks"
+    tools: ["ml_models", "statistics", "visualization"]
+    
+  processor_swarm:
+    role: "Parallel processing of backlog items"
+    agents: 8
+    tools: ["domain_logic", "validation", "documentation"]
+    
+  validator_consensus:
+    role: "Multi-agent validation of results"
+    agents: 3
+    tools: ["cross_checking", "confidence_scoring"]
+    
+  report_generator:
+    role: "Create partial and complete reports"
+    tools: ["templates", "charts", "dashboards"]
+
+workflow_coordination:
+  data_flow: "collector → analyzer → processor_swarm → validator → reporter"
+  feedback_loops: "validator → processor (corrections)"
+  human_handoff: "high_uncertainty_cases"

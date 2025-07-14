@@ -1,0 +1,16 @@
+{
+  "name": "universal-workflow-platform",
+  "version": "1.0.0",
+  "description": "Universal workflow automation using Claude agent swarms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node demos/lackawanna-demo.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "puppeteer": "^21.0.0"
+  },
+  "author": "Michael O'Boyle",
+  "license": "MIT"
+}
