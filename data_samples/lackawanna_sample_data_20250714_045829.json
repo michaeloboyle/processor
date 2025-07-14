@@ -1,0 +1,66 @@
+{
+  "site_structure": {
+    "title": "Lackawanna County",
+    "url": "https://lcao.lackawannacounty.org/forms/htmlframe.aspx?mode=content/home.htm",
+    "forms_count": 0,
+    "links_count": 23,
+    "search_inputs": 0,
+    "search_buttons": 0,
+    "page_length": 14673,
+    "timestamp": "2025-07-14T04:56:39.389940"
+  },
+  "search_functionality": {},
+  "appeal_information": {
+    "appeal_links": [
+      {
+        "text": "APPEALS ARCHIVE",
+        "href": "../forms/externallink.aspx?mode=https://www.lackawannacounty.org/index.php/archives/21192",
+        "keyword_match": "appeal"
+      }
+    ],
+    "guideline_links": [],
+    "form_links": [],
+    "procedure_links": [],
+    "deadline_info": [],
+    "fee_info": []
+  },
+  "appeal_guidelines": [
+    {
+      "source_link": {
+        "text": "APPEALS ARCHIVE",
+        "href": "../forms/externallink.aspx?mode=https://www.lackawannacounty.org/index.php/archives/21192",
+        "keyword_match": "appeal"
+      },
+      "page_title": "403 Forbidden",
+      "page_url": "https://lcao.lackawannacounty.org/../forms/externallink.aspx?mode=https://www.lackawannacounty.org/index.php/archives/21192",
+      "content_length": 13,
+      "timestamp": "2025-07-14T04:56:42.202160",
+      "extracted_sections": {},
+      "structured_lists": []
+    }
+  ],
+  "assessment_criteria": {
+    "assessment_methods": [],
+    "valuation_approaches": [],
+    "property_types": [],
+    "exemptions": [],
+    "assessment_dates": [],
+    "contact_information": {
+      "phones": [],
+      "emails": [],
+      "addresses": []
+    }
+  },
+  "sample_searches": [
+    {
+      "error": "No search input found"
+    }
+  ],
+  "property_samples": [],
+  "collection_metadata": {
+    "timestamp": "2025-07-14T04:56:38.433843",
+    "max_searches": 1,
+    "success_count": 0,
+    "error_count": 1
+  }
+}
