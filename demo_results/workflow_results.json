@@ -1,0 +1,53 @@
+{
+  "workflow_summary": {
+    "success": true,
+    "total_tasks": 5,
+    "completed_tasks": 5,
+    "processing_time_seconds": 1.20341157913208,
+    "validation_confidence": 0.75,
+    "patterns_identified": 1
+  },
+  "data_summary": {
+    "total_properties": 50,
+    "total_appeals": 7,
+    "appeal_rate": 0.14,
+    "total_assessed_value": 27690000,
+    "total_market_value": 30429000,
+    "average_assessed_value": 553800,
+    "pending_appeals": 3,
+    "total_requested_reduction": 836000,
+    "generation_timestamp": "2025-07-14T13:57:21.608772"
+  },
+  "partial_report": {
+    "partial_report": {
+      "report": {
+        "title": "Lackawanna County Property Tax Appeals - Sample Analysis",
+        "summary": {
+          "processed_appeals": 1,
+          "total_appeals": 1,
+          "approval_rate": 0.3,
+          "average_reduction": 15000
+        },
+        "sample_results": [
+          "task_id='T003_process_appeal_000' agent_id='processor_001' status=<TaskStatus.COMPLETED: 'completed'> result={'appeal_id': 'AP-2024-001', 'recommendation': 'Deny appeal', 'confidence_score': 0.75, 'reasoning': 'Assessment appears reasonable based on available data', 'processed_timestamp': '2024-07-14T10:00:00Z'} execution_time=None error_message=None completed_at=datetime.datetime(2025, 7, 14, 13, 57, 22, 614923)"
+        ],
+        "statistics": {
+          "completion_percentage": 100.0,
+          "estimated_savings": 15000
+        },
+        "next_steps": "Complete analysis includes all appeals with detailed recommendations"
+      },
+      "report_type": "partial",
+      "generated_timestamp": "2024-07-14T10:00:00Z"
+    },
+    "report_status": "partial_generated"
+  },
+  "business_impact": {
+    "backlog_size": 7,
+    "processing_time": "1.2 seconds",
+    "traditional_time": "8 months",
+    "time_savings": "99.99%",
+    "potential_savings": 836000,
+    "approach": "done_deal_model"
+  }
+}

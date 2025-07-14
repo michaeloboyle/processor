@@ -22,8 +22,20 @@ npm install
 npm start
 ```
 
-### No Test Suite Available
-Currently no automated tests are configured. When adding tests, update this section with test commands.
+### Run Tests
+```bash
+# Python tests
+python -m pytest tests/ -v
+
+# JavaScript tests
+npm test
+```
+
+### Run Demo Workflow
+```bash
+# Run complete workflow demonstration
+python demo_workflow.py
+```
 
 ### No Linting/Type Checking
 No linting or type checking is currently configured. Consider adding these tools for code quality.

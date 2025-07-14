@@ -1,0 +1,533 @@
+{
+  "properties": [
+    {
+      "property_id": "75-802-57",
+      "address": "9316 2nd Street, Scranton, PA",
+      "assessed_value": 387000,
+      "market_value": 455000,
+      "owner_name": "Barbara Anderson",
+      "property_type": "Industrial",
+      "last_updated": "2025-04-06 13:57:21.607083"
+    },
+    {
+      "property_id": "50-595-11",
+      "address": "3631 Adams Ave, Scranton, PA",
+      "assessed_value": 243000,
+      "market_value": 303000,
+      "owner_name": "Mary Johnson",
+      "property_type": "Mixed Use",
+      "last_updated": "2024-10-18 13:57:21.607526"
+    },
+    {
+      "property_id": "85-758-35",
+      "address": "1768 Spruce Ave, Scranton, PA",
+      "assessed_value": 368000,
+      "market_value": 460000,
+      "owner_name": "Nancy Jackson",
+      "property_type": "Mixed Use",
+      "last_updated": "2025-05-03 13:57:21.607549"
+    },
+    {
+      "property_id": "21-917-61",
+      "address": "9089 Pine St, Scranton, PA",
+      "assessed_value": 385000,
+      "market_value": 385000,
+      "owner_name": "Linda Miller",
+      "property_type": "Mixed Use",
+      "last_updated": "2025-05-03 13:57:21.607567"
+    },
+    {
+      "property_id": "95-820-23",
+      "address": "8780 Lincoln Ave, Scranton, PA",
+      "assessed_value": 203000,
+      "market_value": 270000,
+      "owner_name": "Robert Williams",
+      "property_type": "Institutional",
+      "last_updated": "2025-01-24 13:57:21.607582"
+    },
+    {
+      "property_id": "40-570-82",
+      "address": "3513 Market St, Scranton, PA",
+      "assessed_value": 374000,
+      "market_value": 394000,
+      "owner_name": "John Smith",
+      "property_type": "Mixed Use",
+      "last_updated": "2024-07-28 13:57:21.607728"
+    },
+    {
+      "property_id": "29-327-83",
+      "address": "8658 Walnut St, Scranton, PA",
+      "assessed_value": 796000,
+      "market_value": 995000,
+      "owner_name": "Carol Harris",
+      "property_type": "Apartment Building",
+      "last_updated": "2025-02-01 13:57:21.607746"
+    },
+    {
+      "property_id": "60-518-43",
+      "address": "7172 Jefferson St, Scranton, PA",
+      "assessed_value": 60000,
+      "market_value": 67000,
+      "owner_name": "Mary Johnson",
+      "property_type": "Residential",
+      "last_updated": "2025-06-13 13:57:21.607767"
+    },
+    {
+      "property_id": "77-941-25",
+      "address": "4614 Maple Ave, Scranton, PA",
+      "assessed_value": 614000,
+      "market_value": 818000,
+      "owner_name": "Richard Thomas",
+      "property_type": "Apartment Building",
+      "last_updated": "2024-07-30 13:57:21.607784"
+    },
+    {
+      "property_id": "75-300-32",
+      "address": "1615 Pine St, Scranton, PA",
+      "assessed_value": 1284000,
+      "market_value": 1352000,
+      "owner_name": "Mary Johnson",
+      "property_type": "Industrial",
+      "last_updated": "2024-08-05 13:57:21.607798"
+    },
+    {
+      "property_id": "89-694-54",
+      "address": "1722 3rd Street, Scranton, PA",
+      "assessed_value": 670000,
+      "market_value": 705000,
+      "owner_name": "Barbara Anderson",
+      "property_type": "Commercial",
+      "last_updated": "2025-05-02 13:57:21.607816"
+    },
+    {
+      "property_id": "63-120-89",
+      "address": "5689 Pine St, Scranton, PA",
+      "assessed_value": 771000,
+      "market_value": 811000,
+      "owner_name": "Joseph White",
+      "property_type": "Apartment Building",
+      "last_updated": "2024-11-19 13:57:21.607830"
+    },
+    {
+      "property_id": "26-782-44",
+      "address": "796 1st Street, Scranton, PA",
+      "assessed_value": 750000,
+      "market_value": 938000,
+      "owner_name": "Barbara Anderson",
+      "property_type": "Industrial",
+      "last_updated": "2024-10-07 13:57:21.607846"
+    },
+    {
+      "property_id": "27-519-48",
+      "address": "2514 Adams Ave, Scranton, PA",
+      "assessed_value": 439000,
+      "market_value": 439000,
+      "owner_name": "Thomas Martin",
+      "property_type": "Vacant Land",
+      "last_updated": "2025-06-10 13:57:21.607859"
+    },
+    {
+      "property_id": "89-233-36",
+      "address": "8566 Adams Ave, Scranton, PA",
+      "assessed_value": 1224000,
+      "market_value": 1113000,
+      "owner_name": "John Smith",
+      "property_type": "Apartment Building",
+      "last_updated": "2025-01-18 13:57:21.607875"
+    },
+    {
+      "property_id": "49-167-49",
+      "address": "5811 Maple Ave, Scranton, PA",
+      "assessed_value": 1707000,
+      "market_value": 1552000,
+      "owner_name": "Michael Davis",
+      "property_type": "Industrial",
+      "last_updated": "2024-11-17 13:57:21.607886"
+    },
+    {
+      "property_id": "74-160-67",
+      "address": "6809 Pennsylvania Ave, Scranton, PA",
+      "assessed_value": 520000,
+      "market_value": 473000,
+      "owner_name": "Joseph White",
+      "property_type": "Commercial",
+      "last_updated": "2024-12-02 13:57:21.607897"
+    },
+    {
+      "property_id": "81-462-11",
+      "address": "5780 Cedar St, Scranton, PA",
+      "assessed_value": 631000,
+      "market_value": 743000,
+      "owner_name": "John Smith",
+      "property_type": "Commercial",
+      "last_updated": "2025-03-29 13:57:21.607908"
+    },
+    {
+      "property_id": "33-160-63",
+      "address": "3272 Walnut St, Scranton, PA",
+      "assessed_value": 244000,
+      "market_value": 244000,
+      "owner_name": "Patricia Brown",
+      "property_type": "Residential",
+      "last_updated": "2024-12-26 13:57:21.607924"
+    },
+    {
+      "property_id": "24-156-75",
+      "address": "2488 Main St, Scranton, PA",
+      "assessed_value": 443000,
+      "market_value": 402000,
+      "owner_name": "Mary Johnson",
+      "property_type": "Institutional",
+      "last_updated": "2025-01-24 13:57:21.607935"
+    },
+    {
+      "property_id": "46-737-63",
+      "address": "4861 Market St, Scranton, PA",
+      "assessed_value": 233000,
+      "market_value": 233000,
+      "owner_name": "Susan Moore",
+      "property_type": "Residential",
+      "last_updated": "2025-04-09 13:57:21.607947"
+    },
+    {
+      "property_id": "93-857-76",
+      "address": "6494 Walnut St, Scranton, PA",
+      "assessed_value": 347000,
+      "market_value": 385000,
+      "owner_name": "Susan Moore",
+      "property_type": "Vacant Land",
+      "last_updated": "2025-02-28 13:57:21.607957"
+    },
+    {
+      "property_id": "86-248-10",
+      "address": "5009 Oak Ave, Scranton, PA",
+      "assessed_value": 860000,
+      "market_value": 819000,
+      "owner_name": "Barbara Anderson",
+      "property_type": "Industrial",
+      "last_updated": "2025-03-14 13:57:21.607966"
+    },
+    {
+      "property_id": "89-525-41",
+      "address": "1704 Madison St, Scranton, PA",
+      "assessed_value": 358000,
+      "market_value": 377000,
+      "owner_name": "Mary Johnson",
+      "property_type": "Apartment Building",
+      "last_updated": "2025-03-17 13:57:21.607979"
+    },
+    {
+      "property_id": "83-365-94",
+      "address": "9300 2nd Street, Scranton, PA",
+      "assessed_value": 252000,
+      "market_value": 315000,
+      "owner_name": "Nancy Jackson",
+      "property_type": "Mixed Use",
+      "last_updated": "2025-03-16 13:57:21.607988"
+    },
+    {
+      "property_id": "97-112-73",
+      "address": "8459 Lincoln Ave, Scranton, PA",
+      "assessed_value": 139000,
+      "market_value": 139000,
+      "owner_name": "Patricia Brown",
+      "property_type": "Institutional",
+      "last_updated": "2024-08-31 13:57:21.607998"
+    },
+    {
+      "property_id": "93-633-12",
+      "address": "3239 Market St, Scranton, PA",
+      "assessed_value": 609000,
+      "market_value": 641000,
+      "owner_name": "Nancy Jackson",
+      "property_type": "Commercial",
+      "last_updated": "2024-08-27 13:57:21.608013"
+    },
+    {
+      "property_id": "94-672-43",
+      "address": "5120 Walnut St, Scranton, PA",
+      "assessed_value": 694000,
+      "market_value": 816000,
+      "owner_name": "Barbara Anderson",
+      "property_type": "Industrial",
+      "last_updated": "2025-04-29 13:57:21.608025"
+    },
+    {
+      "property_id": "10-423-77",
+      "address": "6695 Pine St, Scranton, PA",
+      "assessed_value": 262000,
+      "market_value": 349000,
+      "owner_name": "Mary Johnson",
+      "property_type": "Mixed Use",
+      "last_updated": "2025-04-01 13:57:21.608036"
+    },
+    {
+      "property_id": "79-498-90",
+      "address": "7498 Spruce Ave, Scranton, PA",
+      "assessed_value": 910000,
+      "market_value": 1137000,
+      "owner_name": "Nancy Jackson",
+      "property_type": "Industrial",
+      "last_updated": "2025-02-26 13:57:21.608048"
+    },
+    {
+      "property_id": "67-120-58",
+      "address": "8400 Washington Ave, Scranton, PA",
+      "assessed_value": 287000,
+      "market_value": 358000,
+      "owner_name": "Michael Davis",
+      "property_type": "Vacant Land",
+      "last_updated": "2024-11-04 13:57:21.608077"
+    },
+    {
+      "property_id": "54-373-36",
+      "address": "4715 Elm St, Scranton, PA",
+      "assessed_value": 113000,
+      "market_value": 102000,
+      "owner_name": "Mary Johnson",
+      "property_type": "Residential",
+      "last_updated": "2024-12-02 13:57:21.608103"
+    },
+    {
+      "property_id": "37-511-72",
+      "address": "2325 Oak Ave, Scranton, PA",
+      "assessed_value": 1208000,
+      "market_value": 1421000,
+      "owner_name": "David Wilson",
+      "property_type": "Commercial",
+      "last_updated": "2025-05-02 13:57:21.608117"
+    },
+    {
+      "property_id": "84-123-78",
+      "address": "700 Monroe St, Scranton, PA",
+      "assessed_value": 279000,
+      "market_value": 328000,
+      "owner_name": "John Smith",
+      "property_type": "Industrial",
+      "last_updated": "2025-01-03 13:57:21.608129"
+    },
+    {
+      "property_id": "97-269-21",
+      "address": "6380 Walnut St, Scranton, PA",
+      "assessed_value": 1241000,
+      "market_value": 1460000,
+      "owner_name": "Carol Harris",
+      "property_type": "Commercial",
+      "last_updated": "2024-10-05 13:57:21.608145"
+    },
+    {
+      "property_id": "53-309-41",
+      "address": "4532 North St, Scranton, PA",
+      "assessed_value": 100000,
+      "market_value": 111000,
+      "owner_name": "Robert Williams",
+      "property_type": "Residential",
+      "last_updated": "2024-12-02 13:57:21.608157"
+    },
+    {
+      "property_id": "33-280-59",
+      "address": "9242 South St, Scranton, PA",
+      "assessed_value": 466000,
+      "market_value": 466000,
+      "owner_name": "Joseph White",
+      "property_type": "Mixed Use",
+      "last_updated": "2024-08-03 13:57:21.608168"
+    },
+    {
+      "property_id": "13-485-17",
+      "address": "557 Lincoln Ave, Scranton, PA",
+      "assessed_value": 64000,
+      "market_value": 81000,
+      "owner_name": "Richard Thomas",
+      "property_type": "Institutional",
+      "last_updated": "2025-01-25 13:57:21.608180"
+    },
+    {
+      "property_id": "31-246-81",
+      "address": "2497 Market St, Scranton, PA",
+      "assessed_value": 362000,
+      "market_value": 452000,
+      "owner_name": "Michael Davis",
+      "property_type": "Apartment Building",
+      "last_updated": "2024-08-30 13:57:21.608195"
+    },
+    {
+      "property_id": "48-305-56",
+      "address": "9658 Main St, Scranton, PA",
+      "assessed_value": 1102000,
+      "market_value": 1469000,
+      "owner_name": "Patricia Brown",
+      "property_type": "Commercial",
+      "last_updated": "2024-12-26 13:57:21.608208"
+    },
+    {
+      "property_id": "97-609-42",
+      "address": "6785 Cedar St, Scranton, PA",
+      "assessed_value": 168000,
+      "market_value": 177000,
+      "owner_name": "John Smith",
+      "property_type": "Institutional",
+      "last_updated": "2024-10-03 13:57:21.608220"
+    },
+    {
+      "property_id": "75-556-33",
+      "address": "3672 Lincoln Ave, Scranton, PA",
+      "assessed_value": 1579000,
+      "market_value": 1858000,
+      "owner_name": "Joseph White",
+      "property_type": "Industrial",
+      "last_updated": "2025-06-14 13:57:21.608239"
+    },
+    {
+      "property_id": "76-776-62",
+      "address": "1445 Church St, Scranton, PA",
+      "assessed_value": 279000,
+      "market_value": 265000,
+      "owner_name": "John Smith",
+      "property_type": "Institutional",
+      "last_updated": "2025-02-19 13:57:21.608253"
+    },
+    {
+      "property_id": "56-550-57",
+      "address": "6961 3rd Street, Scranton, PA",
+      "assessed_value": 102000,
+      "market_value": 128000,
+      "owner_name": "Susan Moore",
+      "property_type": "Institutional",
+      "last_updated": "2025-02-15 13:57:21.608264"
+    },
+    {
+      "property_id": "57-849-46",
+      "address": "3424 Cedar St, Scranton, PA",
+      "assessed_value": 883000,
+      "market_value": 883000,
+      "owner_name": "Michael Davis",
+      "property_type": "Commercial",
+      "last_updated": "2024-07-26 13:57:21.608276"
+    },
+    {
+      "property_id": "29-746-17",
+      "address": "8802 Market St, Scranton, PA",
+      "assessed_value": 118000,
+      "market_value": 125000,
+      "owner_name": "Joseph White",
+      "property_type": "Residential",
+      "last_updated": "2024-12-26 13:57:21.608287"
+    },
+    {
+      "property_id": "98-619-50",
+      "address": "9287 State St, Scranton, PA",
+      "assessed_value": 1038000,
+      "market_value": 943000,
+      "owner_name": "James Taylor",
+      "property_type": "Apartment Building",
+      "last_updated": "2025-01-07 13:57:21.608298"
+    },
+    {
+      "property_id": "16-600-68",
+      "address": "7920 Washington Ave, Scranton, PA",
+      "assessed_value": 581000,
+      "market_value": 581000,
+      "owner_name": "Barbara Anderson",
+      "property_type": "Apartment Building",
+      "last_updated": "2025-05-03 13:57:21.608309"
+    },
+    {
+      "property_id": "52-542-95",
+      "address": "8822 Maple Ave, Scranton, PA",
+      "assessed_value": 152000,
+      "market_value": 160000,
+      "owner_name": "Carol Harris",
+      "property_type": "Residential",
+      "last_updated": "2025-01-09 13:57:21.608320"
+    },
+    {
+      "property_id": "24-810-21",
+      "address": "4784 Church St, Scranton, PA",
+      "assessed_value": 791000,
+      "market_value": 931000,
+      "owner_name": "Joseph White",
+      "property_type": "Apartment Building",
+      "last_updated": "2025-04-10 13:57:21.608335"
+    }
+  ],
+  "appeals": [
+    {
+      "appeal_id": "AP-2024-001",
+      "property_id": "77-941-25",
+      "appeal_date": "2024-08-26",
+      "status": "Resolved",
+      "requested_value": 459000,
+      "reason": "Overassessment",
+      "hearing_date": null,
+      "resolution": "Approved - Partial Reduction",
+      "final_value": 511000
+    },
+    {
+      "appeal_id": "AP-2024-002",
+      "property_id": "46-737-63",
+      "appeal_date": "2025-01-05",
+      "status": "Under Review",
+      "requested_value": 212000,
+      "reason": "Clerical Error",
+      "hearing_date": "2025-09-23",
+      "resolution": null,
+      "final_value": null
+    },
+    {
+      "appeal_id": "AP-2024-003",
+      "property_id": "57-849-46",
+      "appeal_date": "2024-09-09",
+      "status": "Scheduled",
+      "requested_value": 697000,
+      "reason": "Property Condition",
+      "hearing_date": "2025-09-02",
+      "resolution": null,
+      "final_value": null
+    },
+    {
+      "appeal_id": "AP-2024-004",
+      "property_id": "89-233-36",
+      "appeal_date": "2025-05-17",
+      "status": "Pending",
+      "requested_value": 1066000,
+      "reason": "Incorrect Property Information",
+      "hearing_date": null,
+      "resolution": null,
+      "final_value": null
+    },
+    {
+      "appeal_id": "AP-2024-005",
+      "property_id": "26-782-44",
+      "appeal_date": "2024-12-24",
+      "status": "Pending",
+      "requested_value": 642000,
+      "reason": "Overassessment",
+      "hearing_date": null,
+      "resolution": null,
+      "final_value": null
+    },
+    {
+      "appeal_id": "AP-2024-006",
+      "property_id": "10-423-77",
+      "appeal_date": "2024-10-25",
+      "status": "Pending",
+      "requested_value": 222000,
+      "reason": "Market Value Dispute",
+      "hearing_date": null,
+      "resolution": null,
+      "final_value": null
+    },
+    {
+      "appeal_id": "AP-2024-007",
+      "property_id": "63-120-89",
+      "appeal_date": "2025-06-14",
+      "status": "Under Review",
+      "requested_value": 603000,
+      "reason": "Comparable Sales Analysis",
+      "hearing_date": "2025-08-31",
+      "resolution": null,
+      "final_value": null
+    }
+  ]
+}
